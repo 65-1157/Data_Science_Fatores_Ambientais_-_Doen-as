@@ -4,3 +4,4 @@ Este trabalho destinou-se à disciplina do Prof. Fabio Kon, no Instituto de Mate
 Disciplina = Laboaratório de Ciência de Dados_MAC_6967.
 Utilizando-se datasets abertos com dados meteorológicos e do SUS (CID de doenças respiratórias e coronárias).
 Empregou-se algoritmos de Machine Learning para detectar correlações. Melhor método Ensemble-XGBoost.
+Este trabalho relacionou-se com a ONG - Instituto Cordial.
